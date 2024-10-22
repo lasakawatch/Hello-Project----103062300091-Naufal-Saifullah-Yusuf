@@ -2,7 +2,7 @@
   <h1 align="center">
     <img src="icon.png" width="200"/>
     <br/>
-      ok-ww
+      BJIRLAH
   </h1> 
 <h3><i>Tugas WGWTIK Kelompok</i></h3>
 </div>
