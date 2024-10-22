@@ -2,7 +2,6 @@
   <h1 align="center">
     <img src="https://media1.tenor.com/m/hQ7gBXic_mAAAAAd/gaben.gif" width="200"/> <br/>
     <br/>
-      BJIRLAH
   </h1> 
 <h3><i>Tugas WGTIK Kelompok</i></h3>
   <h3>Anggota Kelompok : </h3>
