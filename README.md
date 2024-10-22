@@ -5,6 +5,7 @@
       BJIRLAH
   </h1> 
 <h3><i>Tugas WGTIK Kelompok</i></h3>
+  <h3>Anggota Kelompok : </h3>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/platfrom-Windows-blue?color=blue)
