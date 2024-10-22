@@ -6,6 +6,9 @@
   </h1> 
 <h3><i>Tugas WGTIK Kelompok</i></h3>
   <h3>Anggota Kelompok : </h3>
+  <h3>Muhammad Farid Irham - 103062300040 </h3>
+  <h3>Naufal Saifullah Yusuf - 103062300091 </h3>
+  <h3>Elsa Melisa Silaen - 103062300075 </h3>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/platfrom-Windows-blue?color=blue)
