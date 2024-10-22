@@ -4,13 +4,12 @@
     <br/>
       BJIRLAH
   </h1> 
-<h3><i>Tugas WGWTIK Kelompok</i></h3>
+<h3><i>Tugas WGTIK Kelompok</i></h3>
 </div>
 
 ![Static Badge](https://img.shields.io/badge/platfrom-Windows-blue?color=blue)
 [![GitHub release (with filter)](https://img.shields.io/github/v/release/ok-oldking/ok-wuthering-waves)](https://github.com/ok-oldking/ok-wuthering-waves/releases)
 [![GitHub all releases](https://img.shields.io/github/downloads/ok-oldking/ok-wuthering-waves/total)](https://github.com/ok-oldking/ok-wuthering-waves/releases)
-[![Static Badge](https://img.shields.io/badge/QQ%E7%BE%A4-970523295-purple)](https://qm.qq.com/q/ufUCrCEq6A)
 
 
 Join our [![Static Badge](https://img.shields.io/badge/Discord-blue?link=https%3A%2F%2Fdiscord.gg%2FZMHXx5QBuH)](https://discord.gg/Sy6etyCRed)
