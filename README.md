@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">
-    <img src="https://github.com/username/reponame/blob/main/images/icon.png" width="200"/> <br/>
+    <img src="(https://media1.tenor.com/m/hQ7gBXic_mAAAAAd/gaben.gif)" width="200"/> <br/>
     <br/>
       BJIRLAH
   </h1> 
