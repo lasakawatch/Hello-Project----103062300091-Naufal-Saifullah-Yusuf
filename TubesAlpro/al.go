@@ -57,3 +57,34 @@ class DoubleLinkedList {
     cout << "Posisi tidak valid. Memasukkan di akhir daftar.\n";
       append(data);return;
     }
+class DoubleLinkedList {
+ private: Node* head;
+
+ public:
+  DoubleLinkedList() : head(nullptr) {}
+
+  void append(int data) {
+    Node* newNode = new Node{data, nullptr, nullptr};
+    if (head == nullptr) {head = newNode;return; }
+
+    Node* temp = head;
+    while (temp->next != nullptr) { temp = temp->next;}
+    temp->next = newNode; newNode->prev = temp;
+  }
+  void insertAtPosition(int data, int position) {
+    if (position <= 1) {
+      cout << "Posisi tidak valid. Memasukkan di awal daftar.\n";
+      Node* newNode = new Node{data, nullptr, head};
+      if (head != nullptr) {head->prev = newNode;}
+      head = newNode;return;
+    }
+
+    Node* temp = head;
+    int count = 1;
+    while (temp != nullptr && count < position - 1) {
+      temp = temp->next;count++;
+    }
+    if (temp == nullptr) {
+    cout << "Posisi tidak valid. Memasukkan di akhir daftar.\n";
+      append(data);return;
+    }
